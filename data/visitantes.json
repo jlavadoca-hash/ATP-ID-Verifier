@@ -1,0 +1,20 @@
+[
+  {
+    "ID": "V0001",
+    "Nombre_Completo": "Jose Angelo Inga Quispe",
+    "DNI": 73570216,
+    "Celular": 51937749247,
+    "Dirección": "San Martin de Porres",
+    "QRCodeURL": "https://example.com/foto1.jpg",
+    "FotoURL": "https://www.pngmart.com/files/23/Profile-PNG-Photo.png"
+  },
+  {
+    "ID": "V0002",
+    "Nombre_Completo": "Josesito Prueba Prueba",
+    "DNI": 73570216,
+    "Celular": 51937749247,
+    "Dirección": "San Martin de Porres",
+    "QRCodeURL": "https://example.com/foto1.jpg",
+    "FotoURL": "https://www.pngmart.com/files/23/Profile-PNG-Photo.png"
+  }
+]
