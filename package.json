@@ -1,0 +1,15 @@
+{
+  "name": "proyecto-atp",
+  "version": "1.0.0",
+  "description": "Sistema de tarjetas con QR para participantes",
+  "main": "index.js",
+  "scripts": {
+    "generate-qrs": "node scripts/generate-qrs.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.5.0"
+  }
+}
